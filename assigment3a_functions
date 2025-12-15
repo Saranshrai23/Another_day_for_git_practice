@@ -1,0 +1,111 @@
+#!/bin/bash
+
+draw_right_triangle() {
+n=$1
+
+for (( i=1; i<=n; i++ )); do
+	for (( j=1; j<=i; j++));do
+		echo -n "*"
+	done
+	echo
+done
+}
+
+
+
+draw_inverse_right_triangle() {
+n=$1
+
+for (( i=1; i<=n; i++));do
+        for (( j=n; j>=i; j-- )); do
+             echo -n "*"
+        done
+        echo
+done
+}
+
+draw_spaced_right_traingle() {
+
+n=$1
+for (( i=1; i<=n; i++));do
+        for (( s=n; s>i; s--)); do
+                echo -n " "
+                done
+                for ((j=1; j<=i; j++ ));do
+                        echo -n "*"
+                        done
+        echo ""
+done
+}
+
+draw_euilatoral_traingle() {
+
+n=$1
+for (( i=1; i<=n; i++));do
+        for (( s=n; s>i; s--)); do
+                echo -n " "
+                done
+                for ((j=1; j<=2*i-1; j++ ));do
+                        echo -n "*"
+                        done
+        echo ""
+done
+}
+
+draw_diamond() {
+n=$1
+
+for (( i=1; i<=n; i++));do
+        for (( s=n; s>i; s--)); do
+                echo -n " "
+                done
+                for ((j=1; j<=2*i-1; j++ ));do
+                        echo -n "*"
+                        done
+        echo ""
+done
+
+
+for (( i=n; i>=1; i--));do
+        for (( s=n; s>i; s--)); do
+                echo -n " "
+                done
+                for ((j=1; j<=2*i-1; j++ ));do
+                        echo -n "*"
+                        done
+        echo ""
+done
+}
+
+
+reverse_right_triangle() {
+n=$1
+
+
+for (( i=n; i>=1; i-- )); do
+    # spaces
+    for (( s=n; s>i; s-- )); do
+        echo -n " "
+    done
+    # stars
+    for (( j=1; j<=i; j++ )); do
+        echo -n "*"
+    done
+    echo
+done
+
+}
+
+reverse_equilatoral_triangle() {
+n=$1
+for (( i=n; i>=1; i--));do
+        for (( s=n; s>i; s--)); do
+                echo -n " "
+                done
+                for ((j=1; j<=2*i-1; j++ ));do
+                        echo -n "*"
+                        done
+        echo ""
+done
+
+}
