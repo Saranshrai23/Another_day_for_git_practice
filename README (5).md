@@ -31,7 +31,8 @@ The infrastructure is designed inside a single AWS region (**ap-south-1**) and c
 
 ## Infra Diagram
 
-![alt text](Screenshots/infra.png)
+<img width="720" height="605" alt="image" src="https://github.com/user-attachments/assets/ebe70dd1-2029-4e1b-b67d-e6481b68fa47" />
+
 ---
 
 ## Networking Design
@@ -83,7 +84,8 @@ The infrastructure is designed inside a single AWS region (**ap-south-1**) and c
 * Forwards traffic to Target Group on port `8080`
 
 > 📸 **ALB Details**
-![alt text](<Screenshots/image copy.png>)
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/7ff58168-8901-4f8f-a1e3-cac528b15150" />
+
 
 ---
 
@@ -106,7 +108,9 @@ The infrastructure is designed inside a single AWS region (**ap-south-1**) and c
 * Health Check Type: ELB
 
 > 📸 **ASG Configuration**
-![alt text](Screenshots/asg.png)
+
+<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/6809dd17-939e-4dd1-a380-56276452eea4" />
+
 
 ---
 
@@ -119,7 +123,9 @@ The infrastructure is designed inside a single AWS region (**ap-south-1**) and c
 * Key Pair: Optional
 
 > 📸 **Launch Template**
-![alt text](<Screenshots/image copy 2.png>)
+
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/40120b29-b651-4be3-89ae-f35d8cc6b639" />
+
 
 ---
 
@@ -155,7 +161,7 @@ The infrastructure is designed inside a single AWS region (**ap-south-1**) and c
 * Only bastion host is allowed SSH access to app servers
 
 > 📸 **Bastion Host**
-![alt text](<Screenshots/image copy 3.png>)
+<img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/ebe0039b-f4ba-481a-9551-7d1640c8eede" />
 
 ---
 
@@ -176,9 +182,16 @@ The infrastructure is designed inside a single AWS region (**ap-south-1**) and c
 ```groovy
 http://<ALB-DNS>:8080/
 ```
-![alt text](<Screenshots/image copy 4.png>)
-![alt text](<Screenshots/image copy 5.png>)
-![alt text](<Screenshots/image copy 7.png>)
+
+<img width="1918" height="845" alt="image" src="https://github.com/user-attachments/assets/6e6800f8-fce4-46cd-baa2-23bd9267e8be" />
+
+<img width="1918" height="998" alt="image" src="https://github.com/user-attachments/assets/6adad1af-f2fd-4f4c-a098-002f61d3be09" />
+
+<img width="1916" height="847" alt="image" src="https://github.com/user-attachments/assets/ad4a0531-d52c-4c4d-a1d0-d8e67e258d24" />
+
+<img width="1912" height="942" alt="image" src="https://github.com/user-attachments/assets/116a8b64-b8a0-4860-8a4e-a2299bc06989" />
+
+
 ---
 
 ## Final Outcome
