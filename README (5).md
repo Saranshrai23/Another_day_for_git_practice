@@ -96,6 +96,9 @@ The infrastructure is designed inside a single AWS region (**ap-south-1**) and c
 * Port: 8080
 * Health Check Path: `/`
 
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/5f392d44-5921-489b-abb0-7ca0c2d13dc6" />
+
+
 ---
 
 ## Auto Scaling Group (ASG)
