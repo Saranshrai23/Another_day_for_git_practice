@@ -200,6 +200,8 @@ Application updates happen smoothly with zero downtime.
 <img width="1854" height="1168" alt="Pasted image (7)" src="https://github.com/user-attachments/assets/2a1dca74-078e-46cc-ae2f-db6756411a60" />
 
 🔹 Launch Templates
+![Launch_template_for_both_version](https://github.com/user-attachments/assets/4ed60d62-cca4-414f-8f5a-8baf4e50643e)
+
 <img width="1854" height="1168" alt="Pasted image (4)" src="https://github.com/user-attachments/assets/4cbbcf23-4fe1-4e2a-8edb-bf2f8d3392c7" />
 <img width="1846" height="1091" alt="Pasted image (10)" src="https://github.com/user-attachments/assets/308cad85-41e6-4772-b941-8e4e60db7cff" />
 <img width="1846" height="1091" alt="Pasted image (9)" src="https://github.com/user-attachments/assets/bfba734e-593a-437d-bfa1-4be1a3c7c000" />
@@ -208,6 +210,9 @@ Application updates happen smoothly with zero downtime.
 <img width="1854" height="1168" alt="Pasted image (3)" src="https://github.com/user-attachments/assets/a70bea1b-215b-4779-bf23-2709663314ae" />
 
 🔹 ALB
+
+![LB-version](https://github.com/user-attachments/assets/ee60b3e2-086f-4d65-bf6b-0a166b0966a1)
+
 <img width="1854" height="1168" alt="Pasted image" src="https://github.com/user-attachments/assets/ee295cf4-ea69-4c9c-a876-431a4a1f7b9d" />
 <img width="1854" height="1168" alt="Pasted image (2)" src="https://github.com/user-attachments/assets/c97674b4-cbd4-4dff-ab43-50672cb0f599" />
 
@@ -216,15 +221,14 @@ Application updates happen smoothly with zero downtime.
 
 #### 🔹 Version 1
 
-<img width="1854" height="1168" alt="Pasted image (5)" src="https://github.com/user-attachments/assets/2670faed-1ee1-4061-be97-02a69df47fa4" />
-<img width="1854" height="1168" alt="Pasted image (6)" src="https://github.com/user-attachments/assets/e88e39f5-e86d-45be-9b98-9d9f4fa94d9d" />
+![Version1_running](https://github.com/user-attachments/assets/55dbd67a-d357-449d-85ff-0724416b8c17)
+
 
 
 #### 🔹 Version 2
 
-<img width="1846" height="1091" alt="Pasted image (13)" src="https://github.com/user-attachments/assets/c6063ca0-b3eb-486f-b4f4-e9e84c359bb2" />
-<img width="1846" height="1091" alt="Pasted image (12)" src="https://github.com/user-attachments/assets/db454af9-5ad4-4dfa-bd7f-9086cb115c56" />
-<img width="1846" height="1091" alt="Pasted image (14)" src="https://github.com/user-attachments/assets/47eb785d-255e-4bfb-b0be-87a8a54b8d0f" />
+![Version2_running](https://github.com/user-attachments/assets/b0529653-7b77-4748-b9c0-b9a8f4f76aea)
+
 
 
 ---
