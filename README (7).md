@@ -149,21 +149,22 @@ Application redeployed by replacing the entire instance.
 ![Version-1 (AMI)](https://github.com/user-attachments/assets/24a3c4b5-9e42-44fa-80ac-2c9b7ba358e1)
 
 
+🔹 Bucket
+
+![Bucket policy](https://github.com/user-attachments/assets/2869b296-263d-48a6-ba82-e3fc5194a4cb)
+![Bucket-1](https://github.com/user-attachments/assets/abe6ccff-45fd-4135-90af-71d16ada8ba0)
+
+
+
 #### 🔹 Version 1
 
 ![Version-1](https://github.com/user-attachments/assets/923df424-18ff-4d70-ae4f-3936c42bd3de)
 
-<img width="1854" height="1168" alt="Pasted image (2)" src="https://github.com/user-attachments/assets/61f5d151-8a3a-4724-9908-2bf2a113e514" />
-<img width="1854" height="1168" alt="Pasted image (3)" src="https://github.com/user-attachments/assets/fcbf8a64-dea3-4eea-a04f-c78f594a0144" />
-<img width="1854" height="1168" alt="Pasted image (6)" src="https://github.com/user-attachments/assets/e48a7030-07bf-4dcb-8b8d-f24950431433" />
 
 #### 🔹 Version 2
 
 ![Version-2](https://github.com/user-attachments/assets/46495e62-d2af-435b-8edd-ea8cde085c53)
 
-<img width="1854" height="1168" alt="Pasted image (7)" src="https://github.com/user-attachments/assets/42e865d1-3266-4c96-8c7c-c481b115d55c" />
-<img width="1854" height="1168" alt="Pasted image (8)" src="https://github.com/user-attachments/assets/ad33f5ae-c221-4827-b162-5e10ff231e68" />
-<img width="1854" height="1168" alt="Pasted image (9)" src="https://github.com/user-attachments/assets/c1246b33-6e00-4e51-8c54-f5e36ee32084" />
 
 ---
 
