@@ -269,36 +269,8 @@ Application updates happen smoothly with zero downtime.
 Zero-downtime deployment with instant rollback capability.
 
 ### 📸 Screenshots:
-🔹 Instances
-<img width="1860" height="1095" alt="Pasted image (10)" src="https://github.com/user-attachments/assets/a2c9dd09-2b7b-448e-b599-5a8c987b5670" />
-<img width="1860" height="1095" alt="Pasted image (11)" src="https://github.com/user-attachments/assets/8c7d0b7a-d9c4-4eab-811b-b6bec6fdcbaf" />
+![Blue-Green](https://github.com/user-attachments/assets/2568b82c-f819-4464-bf6c-99a4c7b26023)
 
-🔹 AMIs
-<img width="1860" height="1095" alt="Pasted image (12)" src="https://github.com/user-attachments/assets/454eee2c-7472-4503-8766-a981a6bbc6de" />
-
-🔹 S3
-<img width="1860" height="1095" alt="Pasted image (13)" src="https://github.com/user-attachments/assets/67064b40-9573-465f-8e29-b252d2e80a21" />
-
-🔹 Target Group
-<img width="1860" height="1095" alt="Pasted image (7)" src="https://github.com/user-attachments/assets/cc6fd5bf-d86f-4f48-a12b-5c8d0efae39f" />
-
-🔹 ALB
-<img width="1860" height="1095" alt="Pasted image (8)" src="https://github.com/user-attachments/assets/b9e316ad-9254-4a76-bab7-38d7a557c7d2" />
-
-🔹 ASG
-<img width="1860" height="1095" alt="Pasted image (9)" src="https://github.com/user-attachments/assets/1fb7c42f-6402-41e8-970d-c71b6a3968a8" />
-
-#### 🔹 Version 1
-
-<img width="1854" height="1168" alt="Pasted image" src="https://github.com/user-attachments/assets/fafc195f-0454-4590-a975-e2a75e7b732e" />
-<img width="1854" height="1168" alt="Pasted image (2)" src="https://github.com/user-attachments/assets/87a3e11a-4d47-4da3-b5ef-5a37b65c498c" />
-<img width="1854" height="1168" alt="Pasted image (3)" src="https://github.com/user-attachments/assets/d94d3a16-16fe-44ba-990e-dc473a68158a" />
-
-#### 🔹 Version 2
-
-<img width="1854" height="1168" alt="Pasted image (4)" src="https://github.com/user-attachments/assets/7abe3307-7fc6-49a9-8e26-290d749b1de2" />
-<img width="1854" height="1168" alt="Pasted image (5)" src="https://github.com/user-attachments/assets/2eb79aec-44e1-42c0-8994-40d49ba48441" />
-<img width="1854" height="1168" alt="Pasted image (6)" src="https://github.com/user-attachments/assets/4c9b4162-b99d-4e8d-9957-fcdf48025378" />
 
 ---
 
@@ -328,9 +300,8 @@ Low-risk deployment with real-time validation.
 ### 📸 Screenshots:
 🔹 Instances
 
-#### 🔹 Version 1
+![Canary-3](https://github.com/user-attachments/assets/fa04df7e-f641-4868-923b-ca02ef7560c6)
 
-#### 🔹 Version 2
 
 ---
 
