@@ -194,30 +194,40 @@ Application updates happen smoothly with zero downtime.
 
 ### 📸 Screenshots:
 🔹 Instances
-<img width="1846" height="1091" alt="Pasted image (8)" src="https://github.com/user-attachments/assets/9c5505a9-f3ad-4fec-b5f0-89fbae65c5cd" />
+<img width="1547" height="807" alt="image" src="https://github.com/user-attachments/assets/087a08a4-d5f4-4af7-b48e-ae503d53a80d" />
+
 
 🔹 S3 Bucket
-<img width="1854" height="1168" alt="Pasted image (7)" src="https://github.com/user-attachments/assets/2a1dca74-078e-46cc-ae2f-db6756411a60" />
+![Uploading_Indexfiles_S3_CLI](https://github.com/user-attachments/assets/cae9c262-efc6-401d-bcb2-ba5f3d0f198e)
+
 
 🔹 Launch Templates
 ![Launch_template_for_both_version](https://github.com/user-attachments/assets/4ed60d62-cca4-414f-8f5a-8baf4e50643e)
 
-<img width="1854" height="1168" alt="Pasted image (4)" src="https://github.com/user-attachments/assets/4cbbcf23-4fe1-4e2a-8edb-bf2f8d3392c7" />
-<img width="1846" height="1091" alt="Pasted image (10)" src="https://github.com/user-attachments/assets/308cad85-41e6-4772-b941-8e4e60db7cff" />
-<img width="1846" height="1091" alt="Pasted image (9)" src="https://github.com/user-attachments/assets/bfba734e-593a-437d-bfa1-4be1a3c7c000" />
+![chaged_rolling_template_to_2](https://github.com/user-attachments/assets/fc2ad5da-bb4c-4e12-95d4-e61faa5c80d8)
+
+
 
 🔹 Target Group
-<img width="1854" height="1168" alt="Pasted image (3)" src="https://github.com/user-attachments/assets/a70bea1b-215b-4779-bf23-2709663314ae" />
+
+![History_template](https://github.com/user-attachments/assets/421de956-81e4-4434-9ef3-2a5e51c7ee86)
+
+![Health_status](https://github.com/user-attachments/assets/d9e2b6cf-b223-4d91-890c-30a2a74b7495)
+
 
 🔹 ALB
 
 ![LB-version](https://github.com/user-attachments/assets/ee60b3e2-086f-4d65-bf6b-0a166b0966a1)
 
-<img width="1854" height="1168" alt="Pasted image" src="https://github.com/user-attachments/assets/ee295cf4-ea69-4c9c-a876-431a4a1f7b9d" />
-<img width="1854" height="1168" alt="Pasted image (2)" src="https://github.com/user-attachments/assets/c97674b4-cbd4-4dff-ab43-50672cb0f599" />
 
 🔹 ASG
-<img width="1846" height="1091" alt="Pasted image (11)" src="https://github.com/user-attachments/assets/38692820-d1d7-4d5d-af87-b22f44cbe5d6" />
+
+![refreshed_instance_rolling_update](https://github.com/user-attachments/assets/3cfdfd09-bf39-4e0b-ab29-f93713b2617d)
+
+![removing_oldversion_adding_new_version](https://github.com/user-attachments/assets/076a1d81-f2a9-43cd-bae8-d224a3b67233)
+
+![chaged_rolling_template_to_2](https://github.com/user-attachments/assets/a7a2cd2c-d0ed-4818-8a51-6eeac8c5d235)
+
 
 #### 🔹 Version 1
 
